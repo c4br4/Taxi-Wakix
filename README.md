@@ -32,7 +32,7 @@ Este projeto segue a convenção SemVer para controle de versão. Para as versõ
 
 - Breno Pedrozo de Medeiros
 - Gabriel Souza dos Santos
-- Ruan
+- Ruan Carlos Dos Santos de Oliveira 
 
 ### 📄 Licença
 
