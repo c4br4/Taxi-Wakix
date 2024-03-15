@@ -30,8 +30,9 @@ Este projeto segue a convenção SemVer para controle de versão. Para as versõ
 
 ### ✒️ Autores
 
-- Um desenvolvedor - Trabalho Inicial - umdesenvolvedor
-- Fulano De Tal - Documentação - fulanodetal
+- Breno Pedrozo de Medeiros
+- Gabriel Souza dos Santos
+- Ruan
 
 ### 📄 Licença
 
