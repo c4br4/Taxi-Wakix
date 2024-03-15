@@ -1,49 +1,17 @@
+# Taxi-Wakix Aplicativo de Viagem de Táxi
 
-# Título do Projeto: Aplicativo de Viagem de Táxi
-
-O aplicativo de viagem de táxi é uma plataforma para solicitar e gerenciar viagens de táxi de forma conveniente e eficiente.
+O aplicativo Taxi-Wakix é uma plataforma para solicitar e gerenciar viagens de táxi de forma conveniente e eficiente.
 
 ## 🚀 Começando
 
-Estas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste. Consulte a seção de Implantação para saber como implantar o projeto em um ambiente de produção.
+Estas instruções permitirão que você obtenha uma cópia do projeto em funcionamento em sua máquina local para fins de desenvolvimento e teste. Consulte a seção de Implantação para saber como implantar o projeto em um ambiente de produção.
 
 ### 📋 Pré-requisitos
 
-Para instalar e executar o aplicativo de viagem de táxi, você precisará de:
+Para instalar e executar o aplicativo Taxi-Wakix, você precisará de:
 
 - Android Studio
 - Java Development Kit (JDK)
-
-### 🔧 Instalação
-
-Siga estes passos para configurar o ambiente de desenvolvimento:
-
-1. Clone o repositório: `git clone https://github.com/seu-usuario/app-viagem-taxi.git`
-2. Abra o projeto no Android Studio.
-3. Configure as variáveis de ambiente necessárias (chaves de API, configurações de banco de dados, etc.).
-4. Compile e execute o aplicativo em um emulador Android ou dispositivo físico.
-
-### ⚙️ Executando os testes
-
-Para executar os testes automatizados do aplicativo, siga estas etapas:
-
-1. Abra o projeto no Android Studio.
-2. Execute os testes unitários e de integração.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Os testes de ponta a ponta garantem a funcionalidade correta do aplicativo em todos os seus aspectos, incluindo a solicitação de viagens, o processamento de pagamentos e a integração com serviços externos, como mapas e localização.
-
-### ⌨️ Testes de estilo de codificação
-
-Os testes de estilo de codificação verificam se o código segue as diretrizes de estilo definidas para o projeto, garantindo a consistência e a legibilidade do código-fonte.
-
-### 📦 Implantação
-
-Para implantar o aplicativo em um ambiente de produção:
-
-1. Compile o aplicativo em modo de lançamento.
-2. Faça o upload do pacote de distribuição para a loja de aplicativos Google Play Store ou outra plataforma de distribuição de aplicativos Android.
 
 ### 🛠️ Construído com
 
