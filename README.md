@@ -1,6 +1,3 @@
-Claro, aqui está um exemplo adaptado do modelo de README para um projeto de aplicativo de viagem de táxi:
-
----
 
 # Título do Projeto: Aplicativo de Viagem de Táxi
 
@@ -70,7 +67,7 @@ Este projeto segue a convenção SemVer para controle de versão. Para as versõ
 
 ### 📄 Licença
 
-Este projeto está sob a licença (sua licença) - consulte o arquivo [LICENSE.md](link-para-o-arquivo) para obter detalhes.
+Este projeto está sob a licença Panelinha APP's - consulte o arquivo [LICENSE.md](link-para-o-arquivo) para obter detalhes.
 
 ### 🎁 Expressões de gratidão
 
@@ -78,7 +75,3 @@ Este projeto está sob a licença (sua licença) - consulte o arquivo [LICENSE.m
 - Compartilhe suas experiências usando o aplicativo 🚕;
 - Contribua para melhorias e novos recursos 🛠️;
 - etc.
-
----
-
-Lembre-se de substituir os marcadores `[link-para-o-arquivo]`, `[sua licença]`, `[seu-usuario]`, `[app-viagem-taxi]`, etc., com as informações reais do seu projeto.
