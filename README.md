@@ -1,6 +1,6 @@
-# Taxi-Wakix Aplicativo de Viagem de Táxi
+# Taxi-Waxi Aplicativo de Viagem de Táxi
 
-O aplicativo Taxi-Wakix é uma plataforma para solicitar e gerenciar viagens de táxi de forma conveniente e eficiente.
+O aplicativo Taxi-Waxi é uma plataforma para solicitar e gerenciar viagens de táxi de forma conveniente e eficiente.
 
 ## 🚀 Começando
 
@@ -8,7 +8,7 @@ Estas instruções permitirão que você obtenha uma cópia do projeto em funcio
 
 ### 📋 Pré-requisitos
 
-Para instalar e executar o aplicativo Taxi-Wakix, você precisará de:
+Para instalar e executar o aplicativo Taxi-Waxi, você precisará de:
 
 - Android Studio
 - Java Development Kit (JDK)
